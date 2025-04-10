@@ -34,28 +34,28 @@ I'm a driven technologist fascinated by building impactful solutions and navigat
   </svg>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/technologies.gif?raw=true" width="50px"></picture> Tech Stack & Learning Journey
+## 💻 Tech Stack & Learning Journey
 
-I'm constantly exploring and expanding my skillset. Here's a glimpse of what I'm working with and learning (**Please fill these in!**):
+I'm constantly exploring and expanding my skillset. Here's a glimpse of what I'm working with and learning:
 
 **⚙️ Currently Mastering:**
 
 * **Full Stack Development:** Building seamless end-to-end web experiences.
-    * _Frontend:_ `[Add Specific Tech: e.g., React, Vue, Angular, Svelte]`
-    * _Backend:_ `[Add Specific Tech: e.g., Node.js/Express, Python/Django/Flask, Java/Spring]`
-    * _Databases:_ `[Add Specific Tech: e.g., MongoDB, PostgreSQL, MySQL, Redis]`
+    * _Frontend:_ `React.js`, `React-Native`, `HTML5`, `CSS3`
+    * _Backend:_ `Node.js`, `Express.js`, `Flask`
+    * _Databases:_ `MongoDB`, `Firebase (Realtime DB/Firestore)`
 * **AI & Machine Learning:** Experimenting with neural networks, predictive modeling, and data analysis.
-    * _Libraries/Frameworks:_ `[Add Specific Tech: e.g., TensorFlow, PyTorch, Scikit-learn, Pandas]`
+    * _Libraries/Frameworks:_ `TensorFlow`, `Pandas`, `NumPy`, `Scikit-learn`
 * **Web 3.0 & Blockchain:** Diving into decentralization, smart contracts, and dApps.
-    * _Platforms/Languages:_ `[Add Specific Tech: e.g., Solidity, Ethereum, Polygon, Hardhat]`
+    * _Platforms/Languages:_ `Solidity`, `Ethereum`, `Polygon` (Exploring)
 
-**🌱 Always Exploring:** `[Add 1-2 other areas: e.g., Cloud (AWS/GCP/Azure), DevOps (Docker/K8s), Rust]`
+**🌱 Always Exploring:** `Cloud Platforms (AWS, Firebase, Azure, Google Cloud)`, `DevOps (Docker, Jenkins)`, `TypeScript`
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,solidity" /> <br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nodejs" /> <br>
+    <img src="https://skillicons.dev/icons?i=express,mongodb,firebase,flask,tensorflow,solidity" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,gcp,linux,vscode" />
     </a>
 </p>
 
@@ -118,6 +118,10 @@ Let's connect and create something extraordinary! ✨
 
 -   **Pronouns:** He/Him 😄
 -   **Location:** Hyderabad, Telangana, India 🇮🇳
--   **Fun Fact:** When I unplug from the matrix, you'll find me immersed in thought-provoking movies 🎥, exploring diverse music genres 🎵, or strategizing my next move in a game ♟️.
+-   **Fun Fact:** When I unplug from the matrix, you'll find me immersed in thought-provoking movies 🎥, exploring diverse music genres 🎵, or strategizing my next move in a game ♟️... sometimes while coding!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="Funny Cat Typing GIF"/>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaideep-27&label=PROFILE+VIEWS&color=70a5fd&style=plastic" alt="jaideep-27 Profile Views"/> </p>
