@@ -51,11 +51,11 @@ I'm constantly exploring and expanding my skillset. Here's a glimpse of what I'm
 
 **🌱 Always Exploring:** `Cloud Platforms (AWS, Firebase, Azure, Google Cloud)`, `DevOps (Docker, Jenkins)`, `TypeScript`
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nodejs" /> <br>
-    <img src="https://skillicons.dev/icons?i=express,mongodb,firebase,flask,tensorflow,solidity" /> <br>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,gcp,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nodejs&theme=dark" /> <br>
+    <img src="https://skillicons.dev/icons?i=express,mongodb,firebase,flask,tensorflow,solidity&theme=dark" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,gcp,linux,vscode&theme=dark" />
     </a>
 </p>
 
